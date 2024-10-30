@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:tranchaufw04@gmail.com" target="blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tranchaufw04@gmail.com" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" stylestyle="margin-right:20px;"/></a>
-<a href="https://www.facebook.com/chaotodalowr?mibextid=LQQJ4d" target="blank">
+<a href="https://www.facebook.com/chaotodalowr?mibextid=LQQJ4d" target="_blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" alt="https://www.facebook.com/chaotodalowr" height="30" width="30" /></a>
 </p>
 
