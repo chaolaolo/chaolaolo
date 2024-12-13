@@ -16,7 +16,15 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-- **Ngôn ngữ lập trình:** Java, JavaScript, Kotlin, 
+
+- **Ngôn ngữ lập trình:** Java, JavaScript, Kotlin, Dart
+- **Ngôn ngữ định kiểu:** HTML, CSS
+- **Framework:** React-Native, Flutter
+- **Công cụ lập trình:** Android Studio, Visual Studio Code
+- **Lưu trữ dữ liệu:** Firebase, Tương tác RESTful APIs
+- **Quản lý mã nguồn:** Git(Github)
+- **Công nghệ khác:** Figma, Lucidchart, AI...
+
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
