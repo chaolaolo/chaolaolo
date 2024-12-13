@@ -15,7 +15,8 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" alt="https://www.facebook.com/chaotodalowr" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools(Basic):</h3>
+<h3 align="left">Skills:</h3>
+- **Ngôn ngữ lập trình:** Java, JavaScript, Kotlin, 
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
