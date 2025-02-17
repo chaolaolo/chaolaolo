@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin Chào, mình là Chảo Láo Lở</h1>
+<h1 align="center">👋 Chảo Láo Lở Xin Chào</h1>
 <h3 align="center">Lập Trình Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaolaolo&label=Profile%20views&color=0e75b6&style=flat" alt="chaolaolo" /> </p>
